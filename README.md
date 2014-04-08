@@ -5,7 +5,7 @@ Modified from Shiffman's flocking example for <a href="http://natureofcode.com/"
 
 Used the <a href="http://extrapixel.github.io/gif-animation/">ProcessingGif <a/>library.
 
-each bird is a imported gif image.
+each bird is an imported gif image.
 
 Still in the early stage, weird movement...
 
