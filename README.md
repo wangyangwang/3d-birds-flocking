@@ -12,4 +12,10 @@ Still in the early stage, weird movement...
 video documentation on <a href="https://vimeo.com/87577711">Vimeo</a>..
 
 
+2015-3-3 Update:
+
+I found a well-written 3D bird flocking sketch, based on Three.js
+http://threejs.org/examples/#webgl_gpgpu_birds
+
+Check it out!
 
